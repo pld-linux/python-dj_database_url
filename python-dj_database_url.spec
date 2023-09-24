@@ -6,6 +6,7 @@
 Summary:	Use Database URLs in your Django Application
 Summary(pl.UTF-8):	Korzystanie z URL-i do baz danych w aplikacji Django
 Name:		python-dj_database_url
+# keep 0.x here for python2 / django1..2 support
 Version:	0.5.0
 Release:	1
 License:	BSD
